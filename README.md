@@ -1,5 +1,5 @@
 # not7DiceRollGame-6-8-2020
-!== 7 Dice Roll Game (JavaScript only -- no HTML)
+!== 7 Dice Roll Game (viewed on console only)
 
 
 /* 
@@ -30,6 +30,8 @@
   
   Add up all the points earned.
   
+  Refresh page to start the game over for the next player to "roll".
+
   The player with the most points wins the '!==7 Dice Roll' game!
   
 
